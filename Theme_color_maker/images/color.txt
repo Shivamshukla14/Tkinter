@@ -1,0 +1,19 @@
+Color code and hex value
+Color code: (000), (255), (255)
+Hex code: #00ffff
+
+Color code: (255), (098), (000)
+Hex code: #ff6200
+
+Color code: (000), (255), (000)
+Hex code: #00ff00
+
+Color code: (255), (000), (000)
+Hex code: #ff0000
+
+Color code: (139), (116), (199)
+Hex code: #8b74c7
+
+Color code: (139), (206), (053)
+Hex code: #8bce35
+
